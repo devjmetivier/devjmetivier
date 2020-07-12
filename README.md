@@ -1,3 +1,1 @@
-<marquee>devjmetivier</marquee>
-
-### Hi there 👋
+### Devin Metivier
